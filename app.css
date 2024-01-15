@@ -1,0 +1,16 @@
+.big {
+  color: blueviolet;
+  transform: scale(3);
+}
+
+.small {
+  color: black;
+  transform: scale(0.5);
+}
+
+h2 {
+  text-align: center;
+  font-size: 26px;
+  font-family: sans-serif;
+  transition: all 1s;
+}
